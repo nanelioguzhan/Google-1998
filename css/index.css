@@ -1,0 +1,85 @@
+div.container {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 140px;
+}
+
+.search {
+    background-color: #EEEEEE;
+    height: 63px;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.search-input {
+    width: 25%;
+    height: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.search p {
+    margin-bottom: 0px;
+}
+
+
+.box{
+    float: left;
+    
+}
+.box a {
+    display: block;
+}
+
+.box-1 {
+    background-color: #7EE5DA;
+    margin-top: 3px;
+    width: 710px;
+    margin-left: 47px;
+    padding: 13px;
+    text-align: center;
+}
+
+.box-1 p {
+    margin: 0px;
+}
+
+.box-2 {
+    background-color: #70CCC2;
+    margin-top: 3px;
+    width: 235px;
+    margin-left: 2px;
+    padding: 3.8px;
+    text-align: center;
+
+}
+.box-3 {
+    background-color: #62B3AA;
+    width: 828px;
+    margin-top: 3px;
+    margin-left: 2px;
+    height: 80.3px;
+}
+
+.box-3 p {
+    text-align: center;
+    margin: 0px;
+}
+
+.box-3 .buttons {
+    width: 828px;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    margin-top: 100px;
+}
+
